@@ -1,0 +1,8 @@
+package: github.com/Cidan/faker
+import:
+- package: cloud.google.com/go/pubsub
+  version: ~0.34.0
+- package: github.com/rs/zerolog
+  version: ~1.11.0
+  subpackages:
+  - log

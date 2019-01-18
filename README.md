@@ -1,0 +1,1 @@
+fake event generator with multiple outputs
